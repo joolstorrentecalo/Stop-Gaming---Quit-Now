@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable-anydpi-v24/ic_notification_goal_done.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable-xhdpi/ic_health_black_24dp.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable-xhdpi/ic_stars_black_24dp.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable-xhdpi/ic_store_black_24.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_add_black_24.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_app_launcher_foreground.xml" value="0.33" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_delete_black_24.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_event_black_24dp.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_settings_24.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/life_regained_1.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/life_regained_10.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/life_regained_180.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/life_regained_30.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/life_regained_365.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_attach_money_black.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_cigarette.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_money.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_sentiment_satisfied_black.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_sentiment_very_dissatisfied_black.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_smoke_free_black.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_seekbar.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/nav_ic_progress.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/progress_bar_accent_small.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/progress_bar_primary_small.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/rounded_primary_background.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/drawable/stg_ic_plus.xml" value="0.193" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/layout/activity_main.xml" value="0.1833839918946302" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Done/Stop Smoking - Quit Now/app/src/main/res/layout/fragment_settings.xml" value="0.297554347826087" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable-anydpi-v24/ic_notification_goal_done.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable-xhdpi/ic_health_black_24dp.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable-xhdpi/ic_stars_black_24dp.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable-xhdpi/ic_store_black_24.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/cig_not_smoked_100.xml" value="0.22" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/cig_not_smoked_1000.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/cig_not_smoked_10000.xml" value="0.2555" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/cig_not_smoked_20.xml" value="0.2485" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/ic__00.xml" value="0.2485" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_add_black_24.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.2555" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_app_launcher_foreground.xml" value="0.33" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_delete_black_24.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/ic_event_black_24dp.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/life_regained_1.xml" value="0.2555" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/life_regained_30.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/life_regained_365.xml" value="0.2485" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_attach_money_black.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_sentiment_satisfied_black.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_sentiment_very_dissatisfied_black.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/mp_ic_smoke_free_black.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/nav_ic_progress.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/rounded_primary_background.xml" value="0.3775" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/smoke_free_days_1.xml" value="0.2555" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/drawable/smoke_free_days_90.xml" value="0.2555" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/layout/activity_main.xml" value="0.1984375" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/layout/activity_settings.xml" value="0.1984375" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/layout/fragment_home.xml" value="0.1984375" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/layout/fragment_settings.xml" value="0.1984375" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/layout/fragment_trophies.xml" value="0.1984375" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/layout/item_store.xml" value="0.1984375" />
+        <entry key="..\:/Users/jools/Downloads/Projects/Stop Smoking - Quit Now/app/src/main/res/layout/mp_card_progress.xml" value="0.1984375" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable-anydpi-v24/ic_notification_goal_done.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable-xhdpi/ic_health_black_24dp.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable-xhdpi/ic_stars_black_24dp.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable-xhdpi/ic_store_black_24.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable-xhdpi/stats_progress.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/cig_not_smoked_100.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/cig_not_smoked_1000.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/cig_not_smoked_10000.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/cig_not_smoked_20.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/ic_add_black_24.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/ic_app_launcher_foreground.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/ic_delete_black_24.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/ic_event_black_24dp.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/ic_settings_24.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/life_regained_1.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/life_regained_10.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/life_regained_180.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/life_regained_30.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/life_regained_365.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/life_regained_90.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/mp_ic_attach_money_black.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/mp_ic_cigarette.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/mp_ic_money.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/mp_ic_sentiment_satisfied_black.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/mp_ic_sentiment_very_dissatisfied_black.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/mp_ic_smoke_free_black.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/mp_seekbar.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/nav_ic_progress.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/progress_bar_accent_small.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/progress_bar_primary_small.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/rounded_primary_background.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/rounded_top_white.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_1.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_10.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_14.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_180.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_3.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_30.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_365.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_5.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_7.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/smoke_free_days_90.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/stg_ic_minus.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/drawable/stg_ic_plus.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/fragment_dialog_add_item.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/fragment_goal_list_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/fragment_goal_list_dialog_item.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/fragment_store.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/fragment_trophies.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/item_store.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/mp_card_progress.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/mt_item_header.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/layout/mt_item_image.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/menu/menu_bottom_nav.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/menu/menu_toolbar_actions_main.xml" value="0.1" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/mipmap-anydpi-v26/ic_app_launcher.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Projects/quit-smoking/app/src/main/res/mipmap-anydpi-v26/ic_app_launcher_round.xml" value="0.1795" />
+        <entry key="..\:/Users/jools/Downloads/Stop Smoking - Quit Now/app/src/main/res/layout/fragment_settings.xml" value="0.28351449275362317" />
+        <entry key="..\:/Users/jools/Downloads/quit-smoking/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="..\:/Users/jools/Downloads/quit-smoking/app/src/main/res/mipmap-anydpi-v26/ic_app_launcher_round.xml" value="0.1885" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/quitgaming/quitgaming/quitnow/util/Extensions.kt" />
+      <entry_point TYPE="method" FQNAME="com.example.quitnow.util.ExtensionsKt java.lang.String getEmpty(kotlin.jvm.internal.StringCompanionObject $this$empty)" />
+      <entry_point TYPE="method" FQNAME="com.example.quitnow.util.ExtensionsKt void hide(android.view.View $this$hide)" />
+      <entry_point TYPE="method" FQNAME="com.example.quitnow.util.ExtensionsKt void invisible(android.view.View $this$invisible)" />
+      <entry_point TYPE="method" FQNAME="com.example.quitnow.util.ExtensionsKt void show(android.view.View $this$show)" />
+      <entry_point TYPE="method" FQNAME="com.example.quitnow.util.ExtensionsKt float toDp(float $this$toDp, android.content.Context context)" />
+      <entry_point TYPE="method" FQNAME="com.example.quitnow.util.ExtensionsKt int toDp(int $this$toDp, android.content.Context context)" />
+      <entry_point TYPE="method" FQNAME="com.example.quitnow.util.ExtensionsKt float toPx(float $this$toPx, android.content.Context context)" />
+      <entry_point TYPE="method" FQNAME="com.example.quitnow.util.ExtensionsKt int toPx(int $this$toPx, android.content.Context context)" />
+    </entry_points>
+    <pattern value="com.example.quitnow.ui.store.AdapterStoreItems" />
+    <pattern value="com.example.quitnow.ui.store.AdapterStoreItems" method="AdapterStoreItems" />
+    <pattern value="com.example.quitnow.data.AppRepo" />
+    <pattern value="com.example.quitnow.ui.home.goal.GoalDialogFragment.Companion" />
+    <pattern value="com.example.quitnow.ui.home.goal.GoalDialogFragment" />
+    <pattern value="com.example.quitnow.ui.home.HomeFragment" />
+    <pattern value="com.example.quitnow.MainActivity" />
+    <pattern value="com.example.quitnow.MainViewModel" />
+    <pattern value="com.example.quitnow.ui.home.goal.GoalDialogFragment.Companion" method="newInstance" />
+    <pattern value="com.example.quitnow.ui.settings.SettingsFragment" method="onDateSet" />
+    <pattern value="com.example.quitnow.ui.store.StoreFragment" method="onDeleteItem" />
+    <pattern value="com.example.quitnow.ui.home.HomeFragment" method="onGoalClicked" />
+    <pattern value="com.example.quitnow.ui.home.goal.GoalDialogFragment" method="onItemClicked" />
+    <pattern value="com.example.quitnow.ui.store.StoreFragment" method="onPurchaseItem" />
+    <pattern value="com.example.quitnow.ui.settings.SettingsFragment" method="onTimeSet" />
+    <pattern value="com.example.quitnow.ui.home.HomeFragment" method="onUserDataChanged" />
+    <pattern value="com.example.quitnow.ui.store.StoreFragment" method="onUserDataChanged" />
+    <pattern value="com.example.quitnow.ui.home.views.ProgressCardView" />
+    <pattern value="com.example.quitnow.data.models.home.ProgressHistoryItem" />
+    <pattern value="com.example.quitnow.data.models.home.ProgressHistoryItem" method="ProgressHistoryItem" />
+    <pattern value="com.example.quitnow.data.models.home.ProgressStatsItem" />
+    <pattern value="com.example.quitnow.data.models.home.ProgressStatsItem" method="ProgressStatsItem" />
+    <pattern value="com.example.quitnow.ui.store.StoreFragment" method="setCurrentMoney" />
+    <pattern value="com.example.quitnow.MainViewModel" method="setGoal" />
+    <pattern value="com.example.quitnow.ui.home.views.ProgressCardView" method="setGoalPercentage" />
+    <pattern value="com.example.quitnow.ui.home.views.ProgressCardView" method="setGoalPercentageValue" />
+    <pattern value="com.example.quitnow.ui.home.views.ProgressCardView" method="setGoalValue" />
+    <pattern value="com.example.quitnow.ui.home.views.ProgressCardView" method="setProgressValue" />
+    <pattern value="com.example.quitnow.ui.home.views.ProgressCardView" method="setSeekBarValue" />
+    <pattern value="com.example.quitnow.ui.settings.SettingsFragment" />
+    <pattern value="com.example.quitnow.MainActivity" method="setupBottomNavMenu" />
+    <pattern value="com.example.quitnow.data.AppRepo" method="setUser" />
+    <pattern value="com.example.quitnow.MainViewModel" method="setUserData" />
+    <pattern value="com.example.quitnow.ui.store.StoreFragment" />
+    <pattern value="com.example.quitnow.data.db.store.StoreItemEntity" />
+    <pattern value="com.example.quitnow.data.db.store.StoreItemEntity" method="StoreItemEntity" />
+    <pattern value="com.example.quitnow.data.AppRepo" method="updateGoal" />
+    <pattern value="com.example.quitnow.data.db.user.UserEntity" />
+    <pattern value="com.example.quitnow.data.db.user.UserEntity" method="UserEntity" />
+    <pattern value="com.example.quitnow.data.db.user.UserWithStoreItems" />
+    <pattern value="com.example.quitnow.data.db.user.UserWithStoreItems" method="UserWithStoreItems" />
+    <pattern value="com.example.quitnow.ui.store.AdapterStoreItems.ViewHolder" />
+    <pattern value="com.example.quitnow.ui.store.AdapterStoreItems.ViewHolder" method="ViewHolder" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
